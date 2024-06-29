@@ -7,12 +7,19 @@
 <div align="center">
 
 
-- 👋 OLá! Eu sou o Leandro Bernardinelli
-- 
-- 👀 Estou interessado em aprender Java
-- 
-- 🌱 Atualmente estou aprendendo Java
-- 
-- 💞️Procuro contribuir com a comunidade
-- 
-- 📫 Como entrar em contato comigo
+ 👋 OLá! Eu sou o Leandro Bernardinelli
+ 
+ 👀 Estou interessado em aprender Java
+ 
+ 🌱 Estou aprendendo "Java Foundations" pelo SENAI/SP
+ 
+ 💞️ Procuro contribuir com a comunidade
+ 
+ 📫 Como entrar em contato comigo
+
+</div>
+<div align="center">
+  <a href="https://github.com/LeandroBernardinelli">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LeandroBernardinelli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroBernardinelli&layout=compact&langs_count=7&theme=dark"/>
+</div>
