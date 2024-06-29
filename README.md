@@ -1,10 +1,5 @@
-- 👋 OLá! Eu sou o Leandro Bernardinelli 
-- 👀 Estou interessado em aprender Java
-- 🌱 Atualmente estou aprendendo Java
-- 💞️ Procuro contribuir com a comunidade
-- 📫 Como entrar em contato comigo
-
-<!---
-LeandroBernardinelli/LeandroBernardinelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+Leandro+Bernardinelli!+%E2%98%95%F0%9F%92%BB%F0%9F%8C%9" alt="Typing SVG">
+  </a>
+</p>
