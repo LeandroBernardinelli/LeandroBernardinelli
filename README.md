@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @LeandroBernardinelli
-- 👀 I’m interested in learnig Java
-- 🌱 I’m currently learning Java
-- 💞️ I'm looking to contribute to the community
-- 📫 How to reach me ...
+- 👋 OLá! Eu sou o Leandro Bernardinelli 
+- 👀 Estou interessado em aprender Java
+- 🌱 Atualmente estou aprendendo Java
+- 💞️ Procuro contribuir com a comunidade
+- 📫 Como entrar em contato comigo
 
 <!---
 LeandroBernardinelli/LeandroBernardinelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
