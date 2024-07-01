@@ -9,13 +9,13 @@
 
  👋 OLá! Eu sou o Leandro Bernardinelli
  
- 👀 Estou interessado em aprender Java
+ 👀 Estou no início do aprendizado em Java
  
  🌱 Estou aprendendo "Java Foundations" pelo SENAI/SP
  
- 💞️ Procuro contribuir com a comunidade
+ 💞️ Procuro aprender com a comunidade
  
- 📫 Como entrar em contato comigo
+ 📫 Como entrar em contato comigo 
 
 </div>
 <div align="center">
