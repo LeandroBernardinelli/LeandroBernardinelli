@@ -15,7 +15,7 @@
  
  💞️ Procuro aprender com a comunidade
  
- 📫 Como entrar em contato comigo 
+
 
 </div>
 <div align="center">
